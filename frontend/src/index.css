@@ -14,3 +14,22 @@ code {
 .nav-link{
   margin-left: 40px;
 }
+#supportHero{
+  background-color: #387ED1;
+  color: white;
+}
+#supportHero a{
+  color: white;
+}
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+
+}
